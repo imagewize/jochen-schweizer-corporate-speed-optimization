@@ -50,7 +50,7 @@ Brutally honest evaluation of whether you even need to hire me, given that WP Ro
 
 ---
 
-### [plan-of-action.txt](plan-of-action.txt) - Detailed Proposal
+### [PLAN-OF-ACTION.md](PLAN-OF-ACTION.md) - Detailed Proposal
 Comprehensive client-facing proposal with two options:
 - **Option 1:** 2 hours - Quick wins → Expected: 88-92 mobile
 - **Option 2:** 5 hours - Comprehensive package → Expected: 90-95 mobile
